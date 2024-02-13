@@ -3,7 +3,7 @@ def main():
     print("*" * 35)
     print("My Coffee and Muffin Shop")
 
-    # Get user input for the number of coffees and muffins
+    # Get user input for the number of coffees, muffins, cookies, and brownies
     print("Number of coffees bought?")
     number_of_coffees = int(input())
     print("Number of muffins bought?")
